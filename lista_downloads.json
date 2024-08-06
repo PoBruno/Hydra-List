@@ -1464,6 +1464,14 @@
       ],
       "uploadDate": "2024-02-06T20:55:00.000Z",
       "fileSize": "498.3 MB"
+    },
+    {
+      "title": " Vintage Story v1.19.7",
+      "uris": [
+        "magnet:?xt=urn:btih:02B6E1896EBB2FA435E068F9359D6096B4BC028F&dn=Vintage%20Story%20v1.19.7&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce"
+      ],
+      "uploadDate": ":00.000Z",
+      "fileSize": "508 MB"
     }
   ]
 }
